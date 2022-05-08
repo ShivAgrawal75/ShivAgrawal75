@@ -12,7 +12,7 @@ names[9]="Rajiv";
 
 
 for (var i = 0; i < names.length; i++) {
-	if(names[i].charAt(0)==='J'|| names[i].charAt(0)==='j'){
+	if(names[i].charAt(0)==='S'|| names[i].charAt(0)==='s'){
         console.log("Goodbye "+ names[i])
 	}
 	else{
